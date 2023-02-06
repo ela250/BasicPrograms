@@ -15,7 +15,7 @@ public class PowerOf2 {
             System.out.println(sum);
             for (int i = 1; i <= power; i++) {
                 sum = sum * 2;
-                System.out.println()
+                System.out.println(sum);
             }
 
         }
